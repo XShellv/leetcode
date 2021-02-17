@@ -11,7 +11,6 @@
  * @return {boolean}
  */
 var isMatch = function(s, p) {
-    console.log(12321)
 };
 // @lc code=end
 
