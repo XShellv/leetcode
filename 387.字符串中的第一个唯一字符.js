@@ -10,7 +10,6 @@
  * @return {number}
  */
 var firstUniqChar = function (s) {
-  debugger;
   let temp = {};
   var s = s.split("");
   for (var left = 0; left < s.length; left++) {
